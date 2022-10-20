@@ -3,4 +3,7 @@
 	click on window button > credential manager > Windows credentials > Generic credentials
 	Next, remove or edit the Github keys.
 	
-** 
+** after changing anything then enter 3 commands
+	git add .
+	git commit -m "comment"
+	git push
